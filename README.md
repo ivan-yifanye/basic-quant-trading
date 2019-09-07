@@ -4,3 +4,5 @@ This repo contains some basic elements of quantitative trading from some textboo
   2. Statistics
   3. Trading Strategies
   4. Data
+
+Remark: The file "candle.py" and "movingAverage.py" are directly imported from outside for convinient usage.
