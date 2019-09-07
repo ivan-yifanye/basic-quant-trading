@@ -1,2 +1,6 @@
 # basic-quant-trading
-This repo contains some basic elements of quantitative trading from some textbooks in this field. 
+This repo contains some basic elements of quantitative trading from some textbooks:
+  1. Python usage
+  2. Statistics
+  3. Trading Strategies
+  4. Data
